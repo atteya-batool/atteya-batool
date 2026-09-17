@@ -60,18 +60,23 @@ Python · Advanced JavaScript · Front-End Development · Back-End Development �
 
 ### 📌 Featured Projects
 
-> Pin your 3–4 best repos here once you have them — one line each on what it does and the stack used.
+- **[Hotel Management System](https://github.com/atteya-batool/hotel-management-system)**
+  A web-based system designed to streamline core hotel operations such as room booking, guest check-in/check-out, and reservation tracking, aimed at reducing manual work and improving front-desk efficiency.
+  `Built with: HTML, CSS, JavaScript, PHP, MySQL, Laravel 13`
 
-- **[Project Name](https://github.com/atteya-batool/project-name)** — short description of the project and what it uses.
-- **[Project Name](https://github.com/atteya-batool/project-name)** — short description of the project and what it uses.
+- **[Brandz Valley – E-Commerce Website](https://github.com/atteya-batool/brandz-valley)**
+  A full-featured online shopping platform built to showcase and sell products, featuring product listings, a shopping cart, and a clean, responsive user interface for a smooth customer buying experience.
+  `Built with: HTML, CSS, JavaScript, PHP, MySQL, Laravel 13`
+
+> Update the repo links above to match your actual repository names once pushed.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atteya-batool&show_icons=true&theme=default" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atteya-batool&layout=compact" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=atteya-batool&show_icons=true&theme=default" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=atteya-batool&layout=compact" alt="Top Languages" width="48%"/>
 </p>
 
 ---
