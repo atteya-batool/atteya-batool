@@ -68,9 +68,7 @@ Python · Advanced JavaScript · Front-End Development · Back-End Development �
   A full-featured online shopping platform built to showcase and sell products, featuring product listings, a shopping cart, and a clean, responsive user interface for a smooth customer buying experience.
   `Built with: HTML, CSS, JavaScript, PHP, MySQL, Laravel 13`
 
-> Update the repo links above to match your actual repository names once pushed.
 
----
 
 ### 📊 GitHub Stats
 
